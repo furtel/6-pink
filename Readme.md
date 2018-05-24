@@ -1,7 +1,7 @@
-# Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
+﻿# Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Алексей Симоненко](https://up.htmlacademy.ru/adaptive/14/user/6).
-* Наставник: [Алексей Малейков](https://up.htmlacademy.ru/adaptive/14/user/4839).
+* Студент: [RF](https://up.htmlacademy.ru/adaptive/14/user/6).
+* Наставник: [AS](https://up.htmlacademy.ru/adaptive/14/user/4839).
 
 ---
 
